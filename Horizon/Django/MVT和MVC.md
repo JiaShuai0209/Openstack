@@ -3,3 +3,5 @@
 * M： 数据处理
 * V： 界面显示
 * C： 逻辑处理
+
+![MVC](https://github.com/JiaShuai0209/Openstack/blob/master/Horizon/Django/Picture/MVC.png)
